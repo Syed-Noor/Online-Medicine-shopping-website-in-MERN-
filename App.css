@@ -1,0 +1,39 @@
+main{
+    min-height:80vh;
+    
+}
+.Mainbody{
+    background-color: dimgrey;
+}
+/* .Container{
+    width: 0rem;
+} */
+h3 {
+    text-align: center;
+    font-size: x-large;
+    
+}
+h5{
+    text-align: center;
+    text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-weight: 800;
+    text-decoration-color: rgb(6, 67, 129);
+}
+h2{
+    text-align: center;
+    background-color: blue;
+
+    color: white;
+
+    
+}
+
+.img{
+    width: 15%;
+}
+
+.Container{
+    background-color:dodgerblue;
+}
